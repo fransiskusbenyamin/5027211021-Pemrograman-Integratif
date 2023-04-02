@@ -1,0 +1,15 @@
+{
+  "name": "grpc-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.8.13",
+    "npm-watch": "^0.11.0"
+  }
+}
